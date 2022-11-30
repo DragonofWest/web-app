@@ -6,13 +6,11 @@ In this app you will input your year make and model of your vehicle. Then select
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Tycyn4oV1Rw)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
-
-{Describe the programming language that you used and any libraries.}
+I used Xcode and Swift to make this.
 
 # Useful Websites
 
